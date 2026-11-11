@@ -88,3 +88,6 @@ app/build/outputs/apk/debug/app-debug.apk
 ## Незалежний проєкт
 
 «Світло вдома» — незалежний застосунок, який не є офіційним продуктом ДТЕК або YASNO.
+
+
+![Завантаження APK](https://img.shields.io/github/downloads/x404/svitlo-home/total?filter=*.apk&label=Завантаження%20APK)
