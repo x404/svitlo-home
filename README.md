@@ -6,6 +6,10 @@ Android-застосунок із віджетом графіків відклю
 
 ![Віджет «Світло вдома»](./screenshot.jpg)
 
+
+## Завантажити останню версію
+[https://github.com/x404/svitlo-home/releases/latest](https://github.com/x404/svitlo-home/releases/latest)
+
 ## Можливості
 
 - Віджет із графіками на сьогодні та завтра.
